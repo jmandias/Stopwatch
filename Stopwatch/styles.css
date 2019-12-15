@@ -1,0 +1,52 @@
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 25px;
+    background: rgb(33, 157, 173);
+    padding: 20px;
+    width: 400px;
+    height: 100px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888
+}
+
+.buttons{
+    text-align: center;
+    background: rgb(33, 157, 173);
+    padding: 20px;
+    border-radius: 25px;
+    margin: 10px auto;
+    width: 400px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888
+}
+
+body {
+    background-color: rgba(0, 38, 255, 0.932);
+}
+
+#startStop{
+    color: black;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+#reset{
+    color: black;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+   
+  
